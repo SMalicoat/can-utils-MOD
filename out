@@ -1,0 +1,182 @@
+orig str:'039   [2]  00 0C
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:c
+16:data is:c
+16:new line
+039  [02]  00 00
+orig str:'095   [8]  80 00 07 F4 00 00 00 26
+'
+12:found hex num:8
+13:found hex num:0
+13:data is:80
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:0
+19:found hex num:7
+19:data is:7
+20:space seen
+21:found hex num:f
+22:found hex num:4
+22:data is:f4
+23:space seen
+095  [04]  80 00 00 00
+orig str:'244   [5]  00 00 00 01 31
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:0
+19:found hex num:0
+19:data is:0
+20:space seen
+21:found hex num:0
+22:found hex num:1
+22:data is:1
+23:space seen
+244  [04]  00 00 00 00
+orig str:'166   [4]  D0 32 00 36
+'
+12:found hex num:d
+13:found hex num:0
+13:data is:d0
+14:space seen
+15:found hex num:3
+16:found hex num:2
+16:data is:32
+17:space seen
+18:found hex num:0
+19:found hex num:0
+19:data is:0
+20:space seen
+21:found hex num:3
+22:found hex num:6
+22:data is:36
+22:new line
+166  [04]  D0 00 32 00
+orig str:'158   [8]  00 00 00 00 00 00 00 37
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:0
+19:found hex num:0
+19:data is:0
+20:space seen
+21:found hex num:0
+22:found hex num:0
+22:data is:0
+23:space seen
+158  [04]  00 00 00 00
+orig str:'161   [8]  00 00 05 50 01 08 00 3A
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:0
+19:found hex num:5
+19:data is:5
+20:space seen
+21:found hex num:5
+22:found hex num:0
+22:data is:50
+23:space seen
+161  [04]  00 00 00 00
+orig str:'191   [7]  01 00 10 A1 41 00 29
+'
+12:found hex num:0
+13:found hex num:1
+13:data is:1
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:1
+19:found hex num:0
+19:data is:10
+20:space seen
+21:found hex num:a
+22:found hex num:1
+22:data is:a1
+23:space seen
+191  [04]  01 00 00 00
+orig str:'164   [8]  00 00 C0 1A A8 00 00 22
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:c
+19:found hex num:0
+19:data is:c0
+20:space seen
+21:found hex num:1
+22:found hex num:a
+22:data is:1a
+23:space seen
+164  [04]  00 00 00 00
+orig str:'133   [5]  00 00 00 00 89
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:0
+16:data is:0
+17:space seen
+18:found hex num:0
+19:found hex num:0
+19:data is:0
+20:space seen
+21:found hex num:0
+22:found hex num:0
+22:data is:0
+23:space seen
+133  [04]  00 00 00 00
+orig str:'136   [8]  00 02 00 00 00 00 00 0C
+'
+12:found hex num:0
+13:found hex num:0
+13:data is:0
+14:space seen
+15:found hex num:0
+16:found hex num:2
+16:data is:2
+17:space seen
+18:found hex num:0
+19:found hex num:0
+19:data is:0
+20:space seen
+21:found hex num:0
+22:found hex num:0
+22:data is:0
+23:space seen
+136  [04]  00 00 02 00
