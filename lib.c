@@ -151,6 +151,7 @@ int hexstring2data(char *arg, unsigned char *data, int maxdlen) {
 	return 0;
 }
 
+/*sam Malicoat here*/
 int parse_long_canframe(char *cs, struct canfd_frame *cf) {
 	/* documentation see lib.h */
 
